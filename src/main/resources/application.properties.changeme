@@ -1,7 +1,0 @@
-# Request your yandex API_KEY for https://translate.yandex.com/developers
-# Update this file and rename as application.properties
-yandex.api_key=<<CHANGE ME>
-
-# Do not publish your API keys in GitHub.
-# Read https://docs.travis-ci.com/user/encrypting-files/ for understand how yandex API_KEY are
-# available in Travis without being published on GitHub
