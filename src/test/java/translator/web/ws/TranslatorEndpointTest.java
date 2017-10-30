@@ -46,6 +46,6 @@ public class TranslatorEndpointTest {
 		assertNotNull(response);
 		assertThat(response, instanceOf(GetTranslationResponse.class));
 		GetTranslationResponse translation = (GetTranslationResponse) response;
-		assertThat(translation.getTranslation(), is("This is a test of translation service"));
+		assertThat(translation.getTranslation(), is("This is a test of the translation service"));
 	}	
 }
