@@ -52,7 +52,7 @@ targetCompatibility = 1.8
 
 dependencies {
     compile "org.springframework.boot:spring-boot-starter-web-services"
-    compile "org.springframework.boot:spring-boot-starter-log4j2"
+
     compile "org.apache.httpcomponents:httpclient"
     compile "wsdl4j:wsdl4j:1.6.3"
     
